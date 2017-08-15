@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">BHIMCompanion</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_username">Username </string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="systemadmin">sysadmin</string>
+    <string name="user">general</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="reason">Reason</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+
+    </string>
+
+    <string name="branch_prompt">Choose a country</string>
+
+    <string-array name="branchname">
+        <item>kelambakkam</item>
+        <item>padur</item>
+    </string-array>
+
+    <string name="types_prompt">Choose a country</string>
+
+    <string-array name="type">
+        <item>directorate</item>
+        <item>circle</item>
+        <item>regional</item>
+        <item>head</item>
+    </string-array>
+    <string name="defecttype_prompt">Choose the defect</string>
+    <string-array name="defecttype_arrays">
+        <item>faulty</item>
+        <item>not working</item>
+        <item>accessories needed</item>
+        <item>other</item>
+    </string-array>
+    <string name="priority_prompt">Choose the defect</string>
+    <string-array name="priority_arrays">
+        <item>low</item>
+        <item>normal</item>
+        <item>high</item>
+    </string-array>
+
+</resources>
